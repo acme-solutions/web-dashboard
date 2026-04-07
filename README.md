@@ -1,4 +1,4 @@
-# web-dashboard
+# web-dashboardd
 
 Main customer-facing web dashboard (React)
 
